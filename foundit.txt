@@ -1,1 +1,5 @@
 This git repo will eventually hold codebase data and other items. If you have found this file, find a member of the event staff in gold and say the word shibboleet for a free hint or copy of the app code!
+
+Notes on the app you may want to know:
+- request/query strings are important!
+- try running the app from the console with -h
